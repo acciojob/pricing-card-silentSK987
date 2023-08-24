@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+div{
+	width:40%;
+    padding: 30px;
+    background-color: #f1f1f1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin:auto;
+}
+h1{
+	font-size:29px;
+}
+p{ font-size:17px;}
+img{
+	width:100%
+}
+
+	
